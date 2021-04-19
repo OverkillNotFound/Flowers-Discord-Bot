@@ -1,0 +1,14 @@
+{
+    "token": "BotTokenAqui",
+    "ownerID": "SeuIDAqui",
+    "command": {
+        "prefix": ">",
+        "cooldown": 5000
+    },
+    "database": {
+        "host": "localhost",
+        "user": "root",
+        "password": "",
+        "database": "FlowersDatabase"
+    }
+}
